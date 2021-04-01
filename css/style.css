@@ -23,6 +23,15 @@ p, .form-control, li {
 	width: 100%;
     vertical-align: middle;
 }
+.row img.ex {
+    margin-bottom: 10px;
+}
+.correct {
+    background-color: #c5e0b4;
+}
+.wrong {
+    background-color: #f9c5b4;
+}
 .row audio.audio-responsive {
 	width: 100%;
 }
